@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <br>
-   <img src="https://komarev.com/ghpvc/?username=DevFoxie&style=flat-square&color=blue" alt=""/>
+  
   </div>
   <h1 align="center">
   Hello There
@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me : 
 I am a Full Stack Developer (in progression) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
-- :telescope: I’m a dev stud for Garage404 and contributing to frontend and backend for building web applications.
+- :telescope: Currently with Garage404.
 
 - :zap: In my free time, I read tech articles and try to learn new languages
 
@@ -30,14 +30,6 @@ I am a Full Stack Developer (in progression) <img src="https://media.giphy.com/m
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
- <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title ="php" alt "php" width="40" height="40"/>&nbsp;
-   </div>
    
    ---
 
