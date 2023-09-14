@@ -13,24 +13,17 @@
   Hello There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/9Vp5RAloRaiHk9x8PD/giphy.gif" width="600" height="300"/>
-</div>
  
  ---
 
 ### :woman_technologist: About Me : 
-I am a Full Stack Developer (in progression) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 - :telescope: Currently with Garage404.
 
 - :zap: In my free time, I read tech articles and try to learn new languages
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hakim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hakim-merniz-34367b185/)
 
----
-
-   
    ---
 
 ### :fire: My Stats :
