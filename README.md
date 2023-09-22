@@ -18,8 +18,6 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :zap: In my free time, I read tech articles and try to learn new languages
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hakim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hakim-merniz-34367b185/)
-
    ---
 
 ### :fire: My Stats :
