@@ -13,7 +13,7 @@
  ---
 
 ### :man_technologist: About Me : 
-I am a Software engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+Law & Software engineering  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 - :telescope: Currently with Garage404.
 
 - :zap: In my free time, I read tech articles and try to learn new languages
