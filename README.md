@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me : 
 Law & Software engineering  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
-- :telescope: Currently with Garage404.
+- :telescope: Currently looking for opportunities.
 
 - :zap: In my free time, I read tech articles and try to learn new languages
 
